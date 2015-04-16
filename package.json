@@ -1,0 +1,23 @@
+{
+  "name": "demo-grunt",
+  "version": "1.0.0",
+  "description": "前端工程化",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DAVINDAI/demo-grunt.git"
+  },
+  "keywords": [
+    "前端工程化",
+    "自动化工具"
+  ],
+  "author": "daihongtao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DAVINDAI/demo-grunt/issues"
+  },
+  "homepage": "https://github.com/DAVINDAI/demo-grunt"
+}
